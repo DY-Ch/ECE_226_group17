@@ -1,7 +1,6 @@
-# ECE_226_group17
-RAG &amp; Tool Use for Small Models
+# ECE_226_group17: RAG &amp; Tool Use for Small Models
 
-**Edge-Native RAG: Evaluating Context Injection Latency and Retrieval Efficacy for Small LLMs**
+## Edge-Native RAG: Evaluating Context Injection Latency and Retrieval Efficacy for Small LLMs
 
 This repository contains the implementation and evaluation framework for an edge-optimized Retrieval-Augmented Generation (RAG) system. The project investigates the trade-offs between Sparse and Dense retrieval and profiles the system bottlenecks on resource-constrained hardware.
 
