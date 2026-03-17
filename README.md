@@ -27,10 +27,10 @@ This repository contains the implementation and evaluation framework for an edge
 
 ##  File Descriptions
 - **`evaluate_rag.py`**: The core pipeline implementing the heterogeneous CPU/GPU RAG workflow and tool-calling logic.
+- **`group17_paper.pdf`**: The final technical report detailing our methodology and analysis.
 - **`rag_profiler.py`**: The benchmarking suite used to generate the Recall@5 and latency metrics presented in the paper.
 - **`requirements.txt`**: Python dependencies.
 - **`test_manual.pdf`**: The technical source document (Git User Manual).
-- **`group17_paper.pdf`**: The final technical report detailing our methodology and analysis.
 
 
 ---
