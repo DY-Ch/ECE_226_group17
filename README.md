@@ -26,6 +26,7 @@ This repository contains the implementation and evaluation framework for an edge
 ---
 
 ##  File Descriptions
+- **`architecture_diagram.png`**: A visual representation of the system architecture, illustrating the offloading of retrieval tasks to the CPU and LLM inference on the GPU.
 - **`evaluate_rag.py`**: The core pipeline implementing the heterogeneous CPU/GPU RAG workflow and tool-calling logic.
 - **`group17_paper.pdf`**: The final technical report detailing our methodology and analysis.
 - **`rag_profiler.py`**: The benchmarking suite used to generate the Recall@5 and latency metrics presented in the paper.
